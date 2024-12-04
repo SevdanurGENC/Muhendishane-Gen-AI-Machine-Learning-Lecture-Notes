@@ -1,7 +1,7 @@
 # Muhendishane-Gen-AI-Machine-Learning-Lecture-Notes
 This repo contains the course contents of the Machine Learning training that will be given by me in cooperation with Mühendishane 2.0 Generative Artificial Intelligence Module in November 2024.
 
-![image](https://github.com/user-attachments/assets/dd12eed5-07b2-4c53-9261-011d66fae38b)
+![image](https://github.com/user-attachments/assets/cee9c906-a0d0-4929-8542-3d8545e4edb9)
 
 Eğitim İçeriği :
 
@@ -12,3 +12,5 @@ Eğitim İçeriği :
 5) Yapay Sinir Ağları ve Derin Ögrenmeye giriş, temel kavramlar
 6) Reinforcement Learning giriş, temel kavramlar
 7) Uçtan Uca Makine Öğrenmesi Akışının Tasarlanması ( veri hazırlama, temizleme, standartlastırma, train, test, validation, deployment adımları ile genel resmin ifade edilmesi)
+
+![image](https://github.com/user-attachments/assets/dd12eed5-07b2-4c53-9261-011d66fae38b)
