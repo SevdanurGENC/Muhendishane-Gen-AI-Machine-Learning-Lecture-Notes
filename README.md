@@ -1,5 +1,5 @@
 # Muhendishane-Gen-AI-Machine-Learning-Lecture-Notes
-This repo contains the course contents of the Machine Learning training that will be given by me in cooperation with Mühendishane 2.0 Generative Artificial Intelligence Module in November 2024.
+This repo contains the course contents of the Machine Learning training that will be given by me in cooperation with Mühendishane 2.0 Generative Artificial Intelligence Module in December 2024.
 
 ![image](https://github.com/user-attachments/assets/cee9c906-a0d0-4929-8542-3d8545e4edb9)
 
